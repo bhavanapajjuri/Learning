@@ -1,0 +1,5 @@
+Its an interpreter Language
+Its Dynamic Typing
+It is efficient approach for OOPS concepts
+Elegant Syntax
+Helps in scripting and application development
